@@ -7,7 +7,7 @@
     "example": "example"
   },
   "dependencies": {
-    "raw-socket": "*"
+    "raw-socket": "github:farhadh/node-raw-socket"
   },
   "contributors": [
     {
